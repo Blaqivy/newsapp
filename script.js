@@ -1,7 +1,6 @@
 //API Used: http://newsdata.io other alternatives newscatcherapi.com, gnews.io
 const container = document.querySelector(".container");
 const optionsContainer = document.querySelector(".options-container");
-// "in" stands for India
 const country = "ca,ng,us";
 const options = [
   "top",
